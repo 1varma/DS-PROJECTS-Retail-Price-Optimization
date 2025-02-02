@@ -1,1 +1,1 @@
-always use venv
+always check the data is accessiable
